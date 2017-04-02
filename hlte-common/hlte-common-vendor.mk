@@ -20,7 +20,6 @@ PRODUCT_PACKAGES += \
     TimeService
 
 PRODUCT_PACKAGES += \
-    libHevcSwDecoder \
     libmm-abl \
     libtime_genoff
 
